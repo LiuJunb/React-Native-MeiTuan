@@ -1,0 +1,27 @@
+{
+  "TopBar":[
+    {"icon":"mine_clothes","hasMsg":false,"msgNumber":"0"},
+    {"icon":"mine_setting","hasMsg":false,"msgNumber":"0"},
+    {"icon":"mine_alarm","hasMsg":false,"msgNumber":"0"}
+  ],
+
+  "headerItem":{"headerImage":"takeout_feedback_avatar_custom_default","userName":"请登录~","descrption":"个人中心","leveImage":"group_my_friends_level_v4"},
+
+  "items":[
+    [
+      {"icon":"user_main_wallet","titleLeft":"我的钱包","titleRight":"办信用卡"},
+      {"icon":"user_main_balance","titleLeft":"余额","titleRight":"￥0.00"},
+      {"icon":"order_ic_vector_unused_new","titleLeft":"抵用卷","titleRight":"0"}
+    ],
+    [
+      {"icon":"takeout_ic_user_selected","titleLeft":"好友去哪","titleRight":""},
+      {"icon":"order_ic_vector_uncomment_new","titleLeft":"我的评价","titleRight":""},
+      {"icon":"user_main_collect","titleLeft":"我的收藏","titleRight":""}
+    ],
+    [
+      {"icon":"user_main_point","titleLeft":"积分商城","titleRight":""},
+      {"icon":"user_main_membercenter","titleLeft":"关于美团","titleRight":""}
+
+    ]
+  ]
+}

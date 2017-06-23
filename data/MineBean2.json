@@ -1,0 +1,32 @@
+{
+  "TopBar":[
+    {"icon":"mine_clothes","hasMsg":false,"msgNumber":"0"},
+    {"icon":"mine_setting","hasMsg":false,"msgNumber":"1"},
+    {"icon":"mine_alarm","hasMsg":true,"msgNumber":"1"}
+  ],
+  "headerItem":{"headerImage":"takeout_feedback_avatar_custom_default","username":"请登录~","descrption":"个人中心","leveImage":"group_my_friends_level_v4"},
+  "items":[
+    [
+      {"icon":"user_main_wallet","titleLeft":"我的钱包1","titleRight":"办信用卡1"},
+      {"icon":"user_main_wallet","titleLeft":"我的钱包2","titleRight":"办信用卡2"},
+      {"icon":"user_main_wallet","titleLeft":"我的钱包3","titleRight":"办信用卡3"},
+      {"icon":"user_main_wallet","titleLeft":"我的钱包4","titleRight":"办信用卡4"}
+    ],
+    [
+      {"icon":"user_main_wallet","titleLeft":"我的钱包5","titleRight":"办信用卡5"},
+      {"icon":"user_main_wallet","titleLeft":"我的钱包6","titleRight":"办信用卡6"},
+      {"icon":"user_main_wallet","titleLeft":"我的钱包7","titleRight":"办信用卡7"},
+      {"icon":"user_main_wallet","titleLeft":"我的钱包8","titleRight":"办信用卡8"}
+    ],
+    [
+      {"icon":"user_main_wallet","titleLeft":"我的钱包5","titleRight":"办信用卡5"},
+      {"icon":"user_main_wallet","titleLeft":"我的钱包6","titleRight":"办信用卡6"},
+      {"icon":"user_main_wallet","titleLeft":"我的钱包7","titleRight":"办信用卡7"},
+      {"icon":"user_main_wallet","titleLeft":"我的钱包8","titleRight":"办信用卡8"}
+    ],
+    [
+      {"icon":"user_main_wallet","titleLeft":"我的钱包9","titleRight":"办信用卡9"},
+      {"icon":"user_main_wallet","titleLeft":"我的钱包10","titleRight":"办信用卡10"}
+    ]
+  ]
+}
