@@ -19,7 +19,7 @@
 ### 效果图3 
    
    ![ABC](https://github.com/LiuJunb/MeiTuan/blob/master/README/image/13.png) 
-    
+   ![ABC](https://github.com/LiuJunb/MeiTuan/blob/master/README/md1/51.png) 
 ### 技术要点  
   
   ...
