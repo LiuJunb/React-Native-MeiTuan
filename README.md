@@ -1,7 +1,7 @@
 # MeiTuan
 用 ReactNative 模仿美团的APP,  该项目是在window电脑下开发。
 
-###主要实现三大板块：
+### 主要实现三大板块：
   
   【首页】
   【逛一逛】
@@ -11,8 +11,13 @@
   
    ![ABC](https://github.com/LiuJunb/MeiTuan/blob/master/README/image/09r.png) 
    ![ABC](https://github.com/LiuJunb/MeiTuan/blob/master/README/image/10.png) 
+   
+   ### 
    ![ABC](https://github.com/LiuJunb/MeiTuan/blob/master/README/image/11.png) 
    ![ABC](https://github.com/LiuJunb/MeiTuan/blob/master/README/image/12.png) 
+   
+   ### 
+   
    ![ABC](https://github.com/LiuJunb/MeiTuan/blob/master/README/image/13.png) 
     
 ### 技术要点  
