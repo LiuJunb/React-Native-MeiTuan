@@ -34,6 +34,12 @@
 
 [个人博客](http://blog.csdn.net/u012987546)
 
+
+### 说明文档
+[美团项目说明文档一](https://github.com/LiuJunb/React-Native-MeiTuan/blob/master/README/md1/03ReactNative%E7%BE%8E%E5%9B%A2%E9%A1%B9%E7%9B%AE%E4%B8%80.md)
+
+[美团项目说明文档二]https://github.com/LiuJunb/React-Native-MeiTuan/blob/master/README/md2/04ReactNative%E7%BE%8E%E5%9B%A2%E9%A1%B9%E7%9B%AE%E4%BA%8C.md)
+
 ### 声明
 
  .........
