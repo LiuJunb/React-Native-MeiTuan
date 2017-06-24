@@ -42,8 +42,6 @@
 
 ### 声明
 
- .........
-
 License
 --
     Copyright (C) 2017 liujun2son@163.com
