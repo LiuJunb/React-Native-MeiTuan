@@ -1,5 +1,9 @@
 # MeiTuan
-用 ReactNative 模仿美团的APP,  该项目是在window电脑下开发。
+用 ReactNative 模仿美团的APP,  该项目是在window电脑下开发; 项目难度不大，适合初学者学习。
+
+该项目使用的接口在下面的说明文档中有提到，如果文档的的接口用不了，还可以下载这个[后端的项目](https://github.com/LiuJunb/React-Native-MeiTuan/blob/master/README/MeiTuan.war).
+
+下载后直接把这个项目放到tomcat的webapps目录下即可使用
 
 ### 主要实现三大板块：
   
@@ -20,10 +24,6 @@
    
    ![ABC](https://github.com/LiuJunb/MeiTuan/blob/master/README/image/13.png) 
    ![ABC](https://github.com/LiuJunb/MeiTuan/blob/master/README/md1/51.png) 
-### 技术要点  
-  
-  ...
-
   
 ### 关于我
   
